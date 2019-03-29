@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\SMS-REG.COM.exe.config
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\SMS-REG.COM.exe
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\SMS-REG.COM.pdb
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS-REG.COM.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS_REG.COM.Form1.resources
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS_REG.COM.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS-REG.COM.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS-REG.COM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS-REG.COM.exe
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS-REG.COM.pdb
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\API-SMS-REG.COM.dll
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\API-SMS-REG.COM.pdb
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\SMS-REG.COM\SMS-REG.COM\obj\Release\SMS-REG.COM.csproj.CopyComplete

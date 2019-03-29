@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS-REG.COM", "SMS-REG.COM\SMS-REG.COM.csproj", "{BD0600D4-528D-421A-B654-3355B55E2251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-SMS-REG.COM", "API-SMS-REG.COM\API-SMS-REG.COM.csproj", "{B2EC068F-57CC-4460-89EB-B094FAF2B3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD0600D4-528D-421A-B654-3355B55E2251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0600D4-528D-421A-B654-3355B55E2251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0600D4-528D-421A-B654-3355B55E2251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0600D4-528D-421A-B654-3355B55E2251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EC068F-57CC-4460-89EB-B094FAF2B3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EC068F-57CC-4460-89EB-B094FAF2B3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EC068F-57CC-4460-89EB-B094FAF2B3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EC068F-57CC-4460-89EB-B094FAF2B3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C901F683-4FB9-420E-A57A-58160B287690}
+	EndGlobalSection
+EndGlobal

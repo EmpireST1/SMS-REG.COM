@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\bin\Debug\API-SMS-REG.COM.dll
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\bin\Debug\API-SMS-REG.COM.pdb
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\obj\Debug\API-SMS-REG.COM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\obj\Debug\API-SMS-REG.COM.csproj.CopyComplete
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\obj\Debug\API-SMS-REG.COM.dll
+C:\Users\Administrator\source\repos\SMS-REG.COM\API-SMS-REG.COM\obj\Debug\API-SMS-REG.COM.pdb
