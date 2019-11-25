@@ -3,7 +3,7 @@
 <h1><code>using API_SMS_REG.COM;</code></h1>
 <h1>For Get Number</h1>
 <code>
-var TzidAndNumber = await Task.Run(() => API.GetNumber(country, app, apikey));</br>
+var TzidAndNumber = await API.GetNumber(country, app, apikey);</br>
                 if (TzidAndNumber != null)</br>
                 {</br>
                    string tzid = TzidAndNumber.Item1);</br>
@@ -15,7 +15,7 @@ var TzidAndNumber = await Task.Run(() => API.GetNumber(country, app, apikey));</
                 }</code>
 <h1>For  Get Code</h1>
 <code>
-string code = await Task.Run(() => API.GetCode(tzid, apikey));</br>
+string code = await API.GetCode(tzid, apikey);</br>
                 if (code != null)</br>
                     string code = code;</code>
 <h1>For Set Used</h1>
@@ -24,7 +24,7 @@ Task.Run(() => API.SetUsed(tzid, apikey));</code>
 
 <h1>For Get Balance (You can convert it to double)</h1>
 <code>
-string balance = await Task.Run(() => API.GetBalance(ApiKey.Text));</code>
+string balance = await API.GetBalance(ApiKey.Text);</code>
 
 <h1>Countrys:</h1>
 <code>
