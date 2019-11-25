@@ -20,7 +20,7 @@ string code = await API.GetCode(tzid, apikey);</br>
                     string code = code;</code>
 <h1>For Set Used</h1>
 <code>
-Task.Run(() => API.SetUsed(tzid, apikey));</code>
+API.SetUsed(tzid, apikey);</code>
 
 <h1>For Get Balance (You can convert it to double)</h1>
 <code>
